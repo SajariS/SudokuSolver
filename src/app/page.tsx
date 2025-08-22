@@ -104,10 +104,6 @@ export default function Solver() {
                         )})
                     )}
                 </div>
-
-                <pre className="mt-4 bg-gray-100 p-2 rounded">
-                    {JSON.stringify(table, null, 2)}
-                </pre>
             </div>
         </>
     )
