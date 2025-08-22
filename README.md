@@ -1,5 +1,5 @@
 ## SudokuSolver: Karminen
-NextJS demona luotu fullstack palveluna luotu palvelin/web-käyttöliittymä kontti, joka on tarkoitus pyöriä lokaalina. Sovelluksen päätarkoituksena oli huijata parempi aika LinkedIn sudokussa, jossa on 6x6 kenttä, mutta siihen on lisätty "turhia" ominaisuuksia täydentämään pakettia. Käyttöliittymää ei kuitenkaan ole viimeistelty, sillä se ajaa asiansa.
+NextJS demona luotu fullstack palvelin/web-käyttöliittymä kontti, joka on tarkoitus pyöriä lokaalina. Sovelluksen päätarkoituksena oli huijata parempi aika LinkedIn sudokussa, jossa on 6x6 kenttä, mutta siihen on lisätty "turhia" ominaisuuksia täydentämään pakettia. Käyttöliittymää ei kuitenkaan ole viimeistelty, sillä se ajaa asiansa.
 
 ### Ominaisuudet
 - Paketti pyörii yhdessä kontissa, joka yhdistää palvelimen ja käyttöliittymän.
